@@ -1,13 +1,5 @@
 # SDSS Best Practices for an Inclusive Collaboration
 
-The Sloan Digital Sky Survey (SDSS) welcomes and respects all
-Collaboration members, regardless of race, ethnic origin, religion
-beliefs, gender, gender identity, sexual orientation, disability, age,
-or family and socio-economic status. The success of the SDSS in creating
-a vibrant and productive scientific culture is widely recognized as one
-of its signature achievements, and the diversity of the SDSS
-Collaboration is one of its critical strengths.
-
 SDSS promotes effective communication between its projects and the broad
 science community. SDSS welcomes passionate, detailed, thoughtful
 disagreement, and discussion about ideas. This free exchange of ideas
@@ -21,15 +13,19 @@ Conduct](https://trac.sdss.org/wiki/CoCo/CodeofConduct)
 describes official SDSS policy towards issues and concerns raised by its
 members regarding inappropriate behavior within the collaboration.
 
-SDSS is committed to creating an inclusive, collaborative environment
-and endorses guidelines regarding professional behavior, bullying, and
-harassment, of the American Physical Society (APS), American
-Astronomical Society (AAS). We expect that participants in SDSS will
-read and abide by these guidelines, linked below.
+## Recommended Guidelines
+
+  **Respect Your Colleague's ...** | **Do** | **Do Not**
+  :----: | ---- | ---- |
+  Agency | Allow them to express themselves. | Interrupt them nor talk over them.
+  Sensibility | Speak kindly and politely. | Say anything to your colleague that you would want said to you in prison.
+  Intelligence | Treat them as your equal. | Speak condescendingly to them, nor patronize them.
+  Personal Space | Maintain a respectable boundary. | Approach them in extreme proximity, nor engage in any contact considered uncomfortable.
+  History | Be considerate towards their personhood. | Assume a history or state of your colleague based on outward appearances or supposed background. You are not aware of their personal experiences and identifications.
 
 ## Elements of SDSS Workplace Culture
 
-1.  **Be Kind** - SDSS realizes the impact of kindness to empower
+1.  **Kindness** - SDSS realizes the impact of kindness to empower
 individuals to act in ways that strengthen ourselves, our relationships
 and our communities.
 
@@ -43,30 +39,20 @@ and our communities.
     learning, and therefore treat others with respect, even if we
     disagree.
 
-4.  **Diverse** - Valuing diversity recognizes differences between
+4.  **Diversity** - Valuing diversity recognizes differences between
     people and acknowledges that these differences are an asset,
     bringing strength to a community through new ideas, innovation, and
     creativity.
 
-5.  **Inclusive** - By being inclusive, SDSS strives to create an
+5.  **Inclusion** - By being inclusive, SDSS strives to create an
     environment of involvement, respect, and connection that values and
     benefits from diverse backgrounds and perspectives.
 
-## Recommended Guidelines
-
-- Respect your colleague's agency. When they are speaking, do not
-interrupt them and talk over them.
-
-- Respect your colleague's intelligence. Treat them as your equal. Do not
-speak condescendingly to them.
-
-- Respect your colleague's personal space. When interacting with them, do
-not approach them in extreme proximity nor engage in any contact
-considered uncomfortable.
-
-- Respect your colleague's history. Do not assume a history or state of
-your colleague based on outward appearances or supposed background. You
-are not aware of their personal experiences and identifications.
+SDSS is committed to creating an inclusive, collaborative environment
+and endorses guidelines regarding professional behavior, bullying, and
+harassment, of the American Physical Society (APS), American
+Astronomical Society (AAS). We expect that participants in SDSS will
+read and abide by these guidelines, linked below.
 
 ## Further Resources
 
