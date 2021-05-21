@@ -68,7 +68,7 @@ considered uncomfortable.
 your colleague based on outward appearances or supposed background. You
 are not aware of their personal experiences and identifications.
 
-## Further Resources**
+## Further Resources
 
 - [Inclusive Astronomy - The Nashville
 Recommendations](https://tiki.aas.org/tiki-index.php?page=Inclusive_Astronomy_The_Nashville_Recommendations)
