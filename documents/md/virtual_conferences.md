@@ -37,6 +37,21 @@ The [Committee On INclusion in SDSS](https://www.sdss.org/collaboration/coins/) 
 - In general, questions should be held to the end of the talk.  If you run out of time for all questions, encourage the askers and speakers to interact over the session’s slack channel.
 - Recording question askers ... 
 
-## Acknowledgements
+## Zoom Settings that are helpful (draft)
+
+### Accessibility
+- Enable live transcription for the hearing impaired (this will also record a transcript that can be posted alongside video) 
+- Enable automatic recording
+- Enable auto-saving of chat (for questions)
+
+### Avoiding Issues
+- Use a zoom password
+  - Provide a single link in email communication (that has the password endcoded)
+  - Only post the Zoom Room link on public-facing spaces
+- Mute all participants upon entry, both audio and video
+- For formal sessions, limit screen-sharing to hosts/co-hosts 
+
+
+# Acknowledgements
 - The initial document was made by COINS prior to the 2020 Collaboration meeting. 
 
