@@ -14,7 +14,10 @@ We need to communicate a few tweaks with respect to the online-only conference p
   - Add your preferred pronouns, e.g.,  she/her, he/his, they/them
   - Indicate if one is an Early Career Researcher with the letters ECR, which we take to include all students and postdocs
   - Those of us on COINS will also place COINS by our names 
-  - Other leadership can also indicate themselves: AC = Advisory Council, MC = Membership Council, CoCo = Collaboration Council
+  - Other leadership can also indicate themselves: 
+   - AC = Advisory Council, 
+   - MC = Membership Council, 
+   - CoCo = Collaboration Council
 - Remind everyone to keep themselves muted (audio and/or video) throughout the talk. As hosts of the meeting, you have the power to mute people, should they forget.
 - (_Feedback from 2020 Meeting:_) Remind partiipants to refrain from chatting in the zoom chat; the in-person equivalent to this would be having a loud conversation since this pushes a notification to all attendees. Such actions are actively distracting from the presentation and are disrespectful to the presenter.  
  
