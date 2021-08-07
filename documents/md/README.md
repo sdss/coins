@@ -4,7 +4,7 @@
 
 - [SDSS Best Practices for an Inclusive Collaboration](best_practices.md)
 - [SDSS Guide to Inclusive Chairing](chairing_guidelines.md)
---  [Virtual Meeting Verion (2020)](virtual_conferences.md)
+  - [Virtual Meeting Verion (2020)](virtual_conferences.md)
 
 
 ## Creating New Content
