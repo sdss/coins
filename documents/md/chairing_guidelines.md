@@ -3,7 +3,7 @@
 COINS would like to share the following advice/guidelines to help you, as a session chair in an SDSS meeting, with this role. Your most important role as Chair is to help shape the discussion during Q&A and open discussion times. Many of you are more experienced than this than we are, however we hope the guidelines below will still be useful.
 
 ## At the beginning of the session
-- Specifically encourage junior scientists to ask questions and prepare senior people for not being called on immediately or at all. For example, "There are many junior scientists in this session. I would like to encourage you to ask questions during the Q&As and discussion."
+- Specifically encourage junior scientists to ask questions and prepare senior people for not being called on immediately or at all. For example, _"There are many junior scientists in this session. I would like to encourage you to ask questions during the Q&As and discussion."_
 - Set up expectations for keeping talks to time so the question session does not become shortened (there is evidence that longer Q&A sessions encourage more junior scientists to engage in discussion).
 - Reinforce conference guidelines for accessibility (especially microphone use and leaving aisles clear). You will find that many people will want to not use the microphone, but audience members may have hearing problems they don't want to discuss, so please insist.
 - Remind speakers to speak slowly and clearly in English, so that those perhaps unfamiliar with their accent and/or non-native speakers can better understand.
