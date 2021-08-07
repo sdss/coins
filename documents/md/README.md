@@ -8,7 +8,7 @@
 ### Guides for Meetings
 - [SDSS Guide to Accessibile Meetings](meeting_accessibility.md)
 - [SDSS Guide to Inclusive Chairing](chairing_guidelines.md)
-  - [Virtual Meeting Verion (2020)](virtual_conferences.md)
+  - [Virtual Meeting Version (2020)](virtual_conferences.md)
 
 
 ## Creating New Content
