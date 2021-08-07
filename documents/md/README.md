@@ -3,6 +3,7 @@
 ## COINS Content
 
 - [SDSS Best Practices for an Inclusive Collaboration](best_practices.md)
+- [SDSS Guide to Inclusive Chairing](chairing_guidelines.md)
 
 
 ## Creating New Content
