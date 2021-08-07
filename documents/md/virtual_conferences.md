@@ -1,9 +1,7 @@
 # Inclusive Chairing Guidelines -- Virtual Meeting Edition
 
-The Committee On INclusion in SDSS has produced a set of guidelines for Committee Chairs that encourage an inclusive meeting. The in-person guidelines are available under [Charing Guidelines](chairing_guidelines.md)
+The [Committee On INclusion in SDSS](https://www.sdss.org/collaboration/coins/) has produced a set of guidelines for Session Chairs that encourage an inclusive meeting. The in-person guidelines are available under [Charing Guidelines](chairing_guidelines.md)
 
-
-We need to communicate a few tweaks with respect to the online-only conference planned for 2020. 
 
 ## At the beginning of the Session
 
