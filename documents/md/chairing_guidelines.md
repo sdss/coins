@@ -1,6 +1,6 @@
 # Guildelines for chairing sessions at SDSS meetings
 
-COINS (special thanks to Sarah Schmidt and Karen Masters) would like to share the following advice/guidelines to help you, as a session chair in an SDSS meeting, with this role. Your most important role as Chair is to help shape the discussion during Q&A and open discussion times. Many of you are more experienced than this than we are, however we hope the guidelines below will still be useful.
+COINS would like to share the following advice/guidelines to help you, as a session chair in an SDSS meeting, with this role. Your most important role as Chair is to help shape the discussion during Q&A and open discussion times. Many of you are more experienced than this than we are, however we hope the guidelines below will still be useful.
 
 ## At the beginning of the session
 - Specifically encourage junior scientists to ask questions and prepare senior people for not being called on immediately or at all. For example, "There are many junior scientists in this session. I would like to encourage you to ask questions during the Q&As and discussion."
@@ -20,6 +20,8 @@ COINS (special thanks to Sarah Schmidt and Karen Masters) would like to share th
 - Do not allow questions to become speeches. Interrupt questioners who talk for a long time to request they shorten or end their time. Some example interventions include: "Perhaps this is better for the coffee break," or "Apologies, but for the sake of time can you ask your question?"
 - It is important to keep each Q&A to time; do not continue to call on people when the time is up.
 
-These guidelines are based on a compilation of best practices which are online in a [GitHub wiki](https://github.com/jradavenport/Gender-in-Astro/wiki/Draft-of-Best-Practices) and as part of a conference proceedings: [Schmidt et al. 2016](https://ui.adsabs.harvard.edu/abs/2016csss.confE.155T/abstract).
+## Contributers to this document: 
+- These guidelines are based on a compilation of best practices which are online in a [GitHub wiki](https://github.com/jradavenport/Gender-in-Astro/wiki/Draft-of-Best-Practices) and as part of a conference proceedings: [Schmidt et al. 2016](https://ui.adsabs.harvard.edu/abs/2016csss.confE.155T/abstract).
+- Special thanks Sarah J. Schmidt and Karen Masters for their work on this document.
 
 Thanks again for your help in making a productive and inclusive meeting.
