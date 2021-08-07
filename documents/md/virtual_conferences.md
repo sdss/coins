@@ -16,6 +16,7 @@ The [Committee On INclusion in SDSS](https://www.sdss.org/collaboration/coins/) 
     - AC = Advisory Council, 
     - MC = Membership Council, 
     - CoCo = Collaboration Council
+- Name Badge Script: _Name badge reminder: please indicate your preferred pronouns in your display name. Also please indicate if you are an Early Career Researcher with the letters "ECR", which we take to be all students and postdocs._
 - Remind everyone to keep themselves muted (audio and/or video) throughout the talk. As hosts of the meeting, you have the power to mute people (should they forget) and should do so.
 - (_Feedback from 2020 Meeting:_) Remind participants to refrain from chatting in the zoom chat; the in-person equivalent to this would be having a loud conversation because this pushes a notification to all attendees. Such actions are actively distracting from the presentation and are disrespectful to the presenter.  
 - Enable Live Transcription for the hearing-impaired. Check that the session is being recorded.
@@ -35,4 +36,7 @@ The [Committee On INclusion in SDSS](https://www.sdss.org/collaboration/coins/) 
 - The chair should keep in mind the general Chairing Practices when deciding what order to read questions or call on askers.  
 - In general, questions should be held to the end of the talk.  If you run out of time for all questions, encourage the askers and speakers to interact over the session’s slack channel.
 - Recording question askers ... 
+
+## Acknowledgements
+- The initial document was made by COINS prior to the 2020 Collaboration meeting. 
 
