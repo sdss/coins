@@ -24,11 +24,11 @@ The [Committee On INclusion in SDSS](https://www.sdss.org/collaboration/coins/) 
 
 - **Time Warnings:** We will not have the same physical means of giving/showing/acknowledging time warnings. But it is important that we stick to time for this conference. There is no perfect solution, but we recommend verbally interrupting the speaker with 5/3/1 minute warnings (as appropriate) as the least disruptive option.  Another option is for the chair to change their background to contain a visual time warning, which may work well if all other attendees are muted and the speaker is able to see the chair’s video.  We expect that feedback on these options will shape recommendations throughout the meeting.
 - **Balancing the Tasks:** You and your co-chair will work together to balance the various needs of the session. It is hard to listen, pay attention to a timer, keep track of hand raising, mute random people, monitor slack, etc. all at one time! One division of duties is the following, but we recommend chairs making their own split:
- - **Speaker Chair:** starts the block zoom recording, welcomes the audience, introduces the chairs, reminds the audience to mute themselves and how to ask questions, introduces the speakers, and keeps them on time
- - **Zoom Chair:** monitors the chat for questions, reads or calls on people for the questions that have been noted in the chat window, monitors the time during the question period
- - **Both Chairs:** help monitor their session’s slack channel for at least the rest of the meeting, or however long the discussion is active
+   - **Speaker Chair:** starts the block zoom recording, welcomes the audience, introduces the chairs, reminds the audience to mute themselves and how to ask questions, introduces the speakers, and keeps them on time
+   - **Zoom Chair:** monitors the chat for questions, reads or calls on people for the questions that have been noted in the chat window, monitors the time during the question period
+   - **Both Chairs:** help monitor their session’s slack channel for at least the rest of the meeting, or however long the discussion is active
 - At the mid-point of the session, record the number of attendees.  
- 
+
 ## Questions and Answers 
 
 - Questions should be posted through the zoom chat feature (click on chat on the bottom of the zoom window), preferably only to the Zoom Chair (i.e., not Everyone), to minimize distractions. 
