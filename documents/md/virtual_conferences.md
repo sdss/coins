@@ -9,14 +9,14 @@ The [Committee On INclusion in SDSS](https://www.sdss.org/collaboration/coins/) 
 - Advice for those with slower internet connections: Use the presenter format that should only have the presenter video with their presentation. This should cut back on the bandwidth required. 
   - Depending on the goal of a session, in some situations (e.g., discussions rather than presentations), it may be prudent to advise most participants to turn off their video so that those with slower connections can participate more fully. 
 - **Name Badge:** Because we don't have name badges and also might not be able to see each other, we want to use the display name in zoom as a virtual name badge. At the beginning of your session, you will need to remind folks to make this modification by clicking on "participants" along the bottom of the screen and then clicking on their own name on the participant list to edit their name. The name change will ensure that pronouns can be used and that the guideline for encouraging ECR participation is adhered to. The changes could include the following:
-  - Add your preferred pronouns, e.g.,  she/her, he/his, they/them
+  - Add your pronouns, e.g.,  she/her, he/his, they/them
   - Indicate if one is an Early Career Researcher with the letters ECR, which we take to include all students and postdocs
   - Those of us on COINS will also place COINS by our names 
   - Other leadership can also indicate themselves: 
     - AC = Advisory Council, 
     - MC = Membership Council, 
     - CoCo = Collaboration Council
-- Name Badge Script: _Name badge reminder: please indicate your preferred pronouns in your display name. Also please indicate if you are an Early Career Researcher with the letters "ECR", which we take to be all students and postdocs._
+- Name Badge Script: _Name badge reminder: please indicate your pronouns in your display name. Also please indicate if you are an Early Career Researcher with the letters "ECR", which we take to be all students and postdocs._
 - Remind everyone to keep themselves muted (audio and/or video) throughout the talk. As hosts of the meeting, you have the power to mute people (should they forget) and should do so.
 - (_Feedback from 2020 Meeting:_) Remind participants to refrain from chatting in the zoom chat; the in-person equivalent to this would be having a loud conversation because this pushes a notification to all attendees. Such actions are actively distracting from the presentation and are disrespectful to the presenter.  
 - Enable Live Transcription for the hearing-impaired. Check that the session is being recorded.
