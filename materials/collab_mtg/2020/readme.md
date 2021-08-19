@@ -1,7 +1,7 @@
 # 2020 Collaboration Meeting 
 
 ## Inclusive Chairing
-- [Prepared advice for chairs](SDSS2020-InclusiveChairing.pdf)
+- [Advice for Virtual Chairing (PDF)](SDSS2020-InclusiveChairing.pdf)
 
 ## Speed Geeking
 - Used breakout rooms to separate attendees into small groups. 
@@ -12,7 +12,7 @@
 
 ## Career Panel
 - 1 hour event with 6 panelests spanning a range of positions. Questions were taken from the audience and from prepared questions.
-- [Questions](COINS_Discussion_Questions_Collab_Career_Panel.pdf)
+- [Questions for Panelists (PDF)](COINS_Discussion_Questions_Collab_Career_Panel.pdf), including questions posed during the meeting. 
 
 ## Meet the Omsbuds
 - 1 hour session where Ombuds introduced themselves to the collaboration, their perspective on their role, and chatted casually.
@@ -27,4 +27,4 @@
 
 ## Post Meeting Survey
 - Organized in Survey Monkey, and open from 01 July 2020 to 17 July 2020 obtaining 99 responses; highest response rate always within 1-2 days of an email reminder.
-- [Questions (PDF)](SDSS2020_Followup_Survey.pdf)
+- [SDSS2020 Post Meeting Survey (PDF)](SDSS2020_Followup_Survey.pdf)
