@@ -39,3 +39,4 @@
 
 ## Post Meeting Survey 
 - Run in Survey Monkey from last day of meeting (Aug 17) to Aug 31 (~2 weeks). 
+- [SDSS2021 Post-Meeting Survey (PDF)](SDSS2021_MeetingSurvey.pdf)
