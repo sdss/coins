@@ -1,8 +1,9 @@
 # 2021 Collaboration Meeting 
 
 ## Inclusive Chairing
-- Held two 1 hour training sessions the day before the meeting began (one at 9am EDT, one at 4pm EDT)
-- Slides, other documents
+- Held two 1 hour training sessions the day before the meeting began (one at 9am EDT, one at 4pm EDT) 
+- With Chairs, developed a [Zoom Tips Document (PDF)](SDSS2021_ZoomTipsforSessionChairs.pdf)
+- Slides (TBD)
 
 ## Speed Geeking
 - [As in SDSS2020](https://github.com/sdss/coins/tree/main/materials/collab_mtg/2020#speed-geeking), participants were divided into small groups (3-5). Senior collaboration members were shuffled between groups on a 5 minute cycle.  
