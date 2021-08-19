@@ -1,4 +1,5 @@
 # 2020 Collaboration Meeting 
+COINS is heavily involved in the planning and organization of the annual Collaboration Meeting. In 2020, the meeting was converted from an in-person format to a virtual format over a relatively limited span of time. 
 
 ## Inclusive Chairing
 - [Advice for Virtual Chairing (PDF)](SDSS2020-InclusiveChairing.pdf)
