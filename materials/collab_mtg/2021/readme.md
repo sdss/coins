@@ -11,9 +11,10 @@
 
 ## Career Panel
 - [As in SDSS2020](https://github.com/sdss/coins/tree/main/materials/collab_mtg/2020#career-panel), current and former collaboration members formed a panel. 
-- 
+- [Questions Document](SDSS2021_CareerPanelQuestions.pdf) including questions from 2020 and 2021 panels. 
 
 ## Town Hall
+- The SDSS2020 Town Hall was a follow-up to the Strike4BlackLives. In 2021, we merged the Meet the Ombuds into this session and wanted to take questions from the audience through Slido ([Event Link](https://app.sli.do/event/wzybf1hk)). 
 
 ## Virtual Thank you Card
 - We used google draw to make a "card:" [2021 Thank You Card](https://docs.google.com/drawings/d/1XVGymmN3h6owCBhRPiliL_b9DonlFGyzJYCTAOdIPvI/edit?usp=sharing)
