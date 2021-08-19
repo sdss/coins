@@ -5,6 +5,7 @@
 ### Guides for General Collaboration Activities
 - [SDSS Best Practices for an Inclusive Collaboration](best_practices.md)
 - [SDSS Guide for Inclusive Tele-conferencing](telecon_recommendations.md)
+- [Paths for Conflict Resolution in SDSS](conflict_resolution.md)
 
 ### Guides for Meetings
 - [SDSS Guide to Accessibile Meetings](meeting_accessibility.md)
