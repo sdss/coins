@@ -1,8 +1,9 @@
 # 2020 Collaboration Meeting 
 
 ## Inclusive Chairing
-- Prepared advice for chairs. 
-- 
+- [Prepared advice for chairs](SDSS2020-InclusiveChairing.pdf)
+- Key Points:
+ - Use Display Name as Name Badge. 
 
 ## Speed Geeking
 - Used breakout rooms to separate attendees into small groups. 
