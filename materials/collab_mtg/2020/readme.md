@@ -1,10 +1,19 @@
 # 2020 Collaboration Meeting 
 
 ## Inclusive Chairing
+- Prepared advice for chairs. 
+- 
 
 ## Speed Geeking
+- Used breakout rooms to separate attendees into small groups. 
+- Senior SDSS folks rotated between rooms to meet and greet.
 
 ## Town Hall
+- 1 hour event. Set up as a Discussion.
+
+## Career Panel
+- 1 hour event with 6 panelests spanning a range of positions. Questions were taken from the audience and from prepared questions.
+- [Questions](COINS_Discussion_Questions_Collab_Career_Panel.pdf)
 
 ## Meet the Omsbuds
 - 1 hour session where Ombuds introduced themselves to the collaboration, their perspective on their role, and chatted casually.
