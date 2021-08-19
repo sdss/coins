@@ -2,7 +2,7 @@
 
 Here we provide resources for COINS Activities. 
 
-## New Member Integration
+## Welcoming New Members
 - New Member Welcome Email With Trac Registration
 - New Member or Getting Started Guides for Surveys
 - Speed Geeking event at Collaboration Meeting
@@ -15,3 +15,10 @@ SDSS holds an annual Collaboration meeting. COINS is integral in the planning fo
 - SDSS2019 hosted by UNAM (Ensenada, Mexico)
 - [SDSS2020](collab_mtg/2021) (virtual) hosted by CCA (New York, USA)
 - [SDSS2021](collab_mtg/2021) (virtual) hosted by JHU (Baltimore, USA)
+
+## Demographic Survey
+- 2014
+- 2015
+- 2016
+- 2018
+- 2021
