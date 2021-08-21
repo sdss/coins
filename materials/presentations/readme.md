@@ -21,7 +21,7 @@ In addition to work within the SDSS Collaboration, COINS also communicates withi
 - A. Jones (2019) *Report on The Committee On INcusiveness in SDSS* (SDSS2019 Collaboration Meeting)
 - M. Alpaslan (2019) *The Committee On INcusiveness in SDSS* (Presentation to the Multi-Messenger Diversity Network)
 - M. Vargas Magaña (2019) *The Committee On INcusiveness in SDSS* (Presentation to DESI Collaboration)
-- A. Jones (2018) *The Committee On INcusiveness in SDSS: An Introduction* (SDSS2018 Collaboration Meeting)
+- A. Jones (2018), [*The Committee On INcusiveness in SDSS: An Introduction*](2018_SDSS2018_COINS.pdf), SDSS2018 Collaboration Meeting
 - J. Sanchez-Galledo (2018) *The Committee On INcusiveness in SDSS: First Results from the Demographic Survey* (SDSS2018 Collaboration Meeting)
 - S. Schmidt (2017) *Report from The Committee On INcusiveness in SDSS* (SDSS2017 Collaboration Meeting)
 - S. Schmidt (2016) *Equity & Inclusion at the intersection of identities* (AIP Equity Lunch)
