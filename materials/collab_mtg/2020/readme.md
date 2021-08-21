@@ -17,6 +17,7 @@ COINS is heavily involved in the planning and organization of the annual Collabo
 
 ## Meet the Omsbuds
 - 1 hour session where Ombuds introduced themselves to the collaboration, their perspective on their role, and chatted casually.
+- [Ombuds Office Description](SDSS2020_ombuds.pdf)
 
 ## Plenary
 - Jesus Pando gave a presentation on FAST
