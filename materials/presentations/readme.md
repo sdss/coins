@@ -1,4 +1,5 @@
-# Presentations of COINS
+# COINS Publications, Posters, & Presentations
+In addition to work within the SDSS Collaboration, COINS also communicates within the Astronomy community.
 
 ## Publications
 - Masters et al. (2021) "The demographics of Education Public Outreach (EPO) participation among professional scientists in the Sloan Digital Sky Surveys IV", Communicating Astronomy with the Public 2021
