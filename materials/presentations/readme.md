@@ -18,7 +18,7 @@ In addition to work within the SDSS Collaboration, COINS also communicates withi
 - K. Masters (2021) *The demographics of Education Public Outreach (EPO) participation among professional scientists in the Sloan Digital Sky Surveys IV* (Communicating Astronomy with the Public 2021 )
 - A. Jones (2020) *COINS, Committee On INcusiveness in SDSS: Lessons Learned* (LSST Working Group Meeting)
 - A. Jones (2020) *The Committee On INcusiveness in SDSS: Demographic Surveys 2014-2018* (SDSS2020 Collaboration Meeting)
-- A. Jones (2019) *Report on The Committee On INcusiveness in SDSS* (SDSS2019 Collaboration Meeting)
+- A. Jones (2019), [*Report on The Committee On INcusiveness in SDSS*](2019_SDSS2019_COINS.pdf), SDSS2019 Collaboration Meeting
 - M. Alpaslan (2019) *The Committee On INcusiveness in SDSS* (Presentation to the Multi-Messenger Diversity Network)
 - M. Vargas Magaña (2019) *The Committee On INcusiveness in SDSS* (Presentation to DESI Collaboration)
 - A. Jones (2018), [*The Committee On INcusiveness in SDSS: An Introduction*](2018_SDSS2018_COINS.pdf), SDSS2018 Collaboration Meeting
