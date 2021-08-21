@@ -8,7 +8,7 @@ In addition to work within the SDSS Collaboration, COINS also communicates withi
 
 ## Posters
 - Ross et al. (2019), "Efforts to Improve Accessibility in the Sloan Digital Sky Survey", SciAccess 2019 Conference
-- Jones et al. (2018), [SDSS efforts on inclusion for bridging different communities](IAU_COINS.pdf), 2018 International Astronomical Union General Assembly
+- Jones et al. (2018), [SDSS efforts on inclusion for bridging different communities](2018_IAU_COINS.pdf), 2018 International Astronomical Union General Assembly
 - Holley-Bockelmann et al. (2017), "The FAST Initiative: Fostering a More Inclusive SDSS Collaboration", American Astronomical Society \#229, [ADS Link](https://ui.adsabs.harvard.edu/abs/2017AAS...22933605H)
 - Schmidt et al. (2017), "The Formation of COINS: Equity and Inclusion in SDSS", American Astronomical Society \#229, [ADS Link](https://ui.adsabs.harvard.edu/abs/2017AAS...22923713S/abstract)
 
