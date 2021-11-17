@@ -1,7 +1,7 @@
 # Markdown Content
 
 ## SDSS-IV Policy Documents
-- [SDSS-IV Code of Conduct FAQs](CoC_FAQ.md)
+- [SDSS-IV Code of Conduct FAQs](CoC_FAQs.md)
 
 ## COINS Content
 
