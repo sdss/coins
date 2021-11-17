@@ -2,6 +2,7 @@
 
 ## SDSS-IV Policy Documents
 - [SDSS-IV Code of Conduct FAQs](CoC_FAQs.md)
+- Code of Conduct
 
 ## COINS Content
 
