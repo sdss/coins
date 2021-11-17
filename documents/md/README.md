@@ -1,5 +1,8 @@
 # Markdown Content
 
+## SDSS-IV Policy Documents
+- [SDSS-IV Code of Conduct FAQs](CoC_FAQ.md)
+
 ## COINS Content
 
 ### Guides for General Collaboration Activities
