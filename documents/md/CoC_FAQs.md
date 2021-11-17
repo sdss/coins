@@ -3,18 +3,18 @@ This FAQ is not formally part of the Code of Conduct. Content on it is controlle
 
 # Code of Conduct: Frequently Asked Questions (FAQ), Table of Conducts
 
-## What is mandatory reporting and why should I care?
-## If I witness a violation of the code of conduct, can I report it?
-## If I report a violation, does it immediately go before the committee?
-## If someone is sanctioned by SDSS, can we report it to other astronomical …
-## Are items on the list of possible sanctions the only sanctions that can be …
-## Can complaints about violations of the Code of Conduct be made …
-## How confidentially will my report be handled?
-## What are my responsibilities for confidentiality?
-## What is the job of the SDSS-IV Ombudspeople?
-## Is SDSS concerned about false accusations?
-## Is it possible to sanction someone for reprisals against someone who …
-## List of Institutions with Mandatory Reporting Policies
+- What is mandatory reporting and why should I care?
+- If I witness a violation of the code of conduct, can I report it?
+- If I report a violation, does it immediately go before the committee?
+- If someone is sanctioned by SDSS, can we report it to other astronomical …
+- Are items on the list of possible sanctions the only sanctions that can be …
+- Can complaints about violations of the Code of Conduct be made …
+- How confidentially will my report be handled?
+- What are my responsibilities for confidentiality?
+- What is the job of the SDSS-IV Ombudspeople?
+- Is SDSS concerned about false accusations?
+- Is it possible to sanction someone for reprisals against someone who …
+- List of Institutions with Mandatory Reporting Policies
 
 # Frequently Asked Questions (FAQ)
 
