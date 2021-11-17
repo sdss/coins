@@ -26,8 +26,8 @@ Yes.
 
 ## If I report a violation, does it immediately go before the committee?
 No, unless you or the accused requests it or the violation is of an extreme nature. In general, we will work informally first to correct the situation. Words originally from the Code of Conduct draft: "It is anticipated that many violations of expected conduct will be a consequence of lack of awareness or sensitivity, some of which may reflect the wide range of cultural backgrounds, nationalities, and scientific styles represented in the Collaboration. In these cases, communication with the individuals involved may suffice to resolve the problem informally. The Ombudspersons are a resource for seeking such resolutions with maximal confidentiality."
-I
-## f someone is sanctioned by SDSS, can we report it to other astronomical societies?
+
+## If someone is sanctioned by SDSS, can we report it to other astronomical societies?
 We have examined the current policies of societies such as the IAU and AAS. Their policies are focused on behavior at meetings, and mainly they rely on home institutions to investigate and sanction. If the violation occurs at a meeting of the AAS or IAU we will support you to report to them. In other cases, it is not clear who we should contact and what they would do with that information. If you would be interested in contacting other astronomy societies to discuss shared reporting, the collaboration would be happy to support that effort.
 
 ## Are items on the list of possible sanctions the only sanctions that can be considered
@@ -49,7 +49,7 @@ Their formal role is defined in the Principles of Operations (the quote is given
 
 From the Principles of Operations: "The ARC Board will appoint a standing Ombudsperson for the project to help resolve disagreements arising in any aspect of the project in an informal manner. As a neutral third party, the Ombudsperson does not advocate for the project or for either party in a dispute. The objective is to provide a process for achieving a fair and reasonable settlement working within existing policies and procedures. When a request for services is received, the Ombudsperson will work with each party to identify appropriate alternatives that address the conflict and to achieve a mutually satisfactory resolution. Consultation with the Ombudsperson does not preclude later pursuit of a resolution through formal channels if that is still desired."
 
-The current Ombudspeople are listed on the Personal Page. They can always be contacted confidentially at ombuds[at]sdss.org
+The current Ombudspeople are listed on the Personal Page. They can always be contacted confidentially at ombuds-at-sdss-dot-org
 
 ## Is SDSS concerned about false accusations?
 False accusations are extremely rare. If in the unlikely case, a false accusation is made, it is also a violation of the Code of Conduct and the same sanctions can apply. More common than false accusations are cases where the parties involved have different experience or assessment of the interaction. The procedures defined in the Code of Conduct are intended to address such cases.
@@ -58,13 +58,11 @@ False accusations are extremely rare. If in the unlikely case, a false accusatio
 Yes. Reprisals are a violation of the Code of Conduct and the procedure in the Code of Conduct should be used to handle such violations.
 
 ## List of Institutions with Mandatory Reporting Policies
-Please note this list may not be complete. If an institution is missing please let the Spokesperson know at ​spokesperson@sdss.org (CoCo are currently in the process of adding institutions).
+Please note this list may not be complete. If an institution is missing please let the Spokesperson know at spokesperson-at-sdss-dot-org
+All US based institutions have mandatory reporting via the Title IX.
 
-## All US based institutions have mandatory reporting via the Title IX.
-
-Institution	Policy	
 - Haverford College, USA	Title IX (USA) - mandatory reporting to Title IX officer	https://www.haverford.edu/sexual-misconduct
-- Portsmouth University, UK	Dignity & Respect Policy (2016) requires all staff to report violations they are aware of, and managers have a legal responsibility to stop bullying & harassment	​http://www.port.ac.uk/departments/services/humanresources/occupationalhealthservice/bullyingandharassmentinformation/
+- Portsmouth University, UK	Dignity & Respect Policy (2016) requires all staff to report violations they are aware of, and managers have a legal responsibility to stop bullying & harassment; http://www.port.ac.uk/departments/services/humanresources/occupationalhealthservice/bullyingandharassmentinformation/
 - University of Arizona, USA	Nondiscrimination and Anti-Harassment Policy	http://policy.arizona.edu/human-resources/nondiscrimination-and-anti-harassment-policy
 
  
