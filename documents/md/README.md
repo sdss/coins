@@ -12,7 +12,6 @@
 - [SDSS Guide to Inclusive Chairing](chairing_guidelines.md)
   - [Virtual Meeting Version (2020)](virtual_conferences.md)
 
-
 ## Creating New Content
 
 You can use the [editor on GitHub](https://github.com/sdss/coins/edit/main/README.md) to maintain and preview the content for your website in Markdown files.

@@ -16,9 +16,10 @@ SDSS holds an annual Collaboration meeting. COINS is integral in the planning fo
 - [SDSS2020](collab_mtg/2021) (virtual) hosted by CCA (New York, USA)
 - [SDSS2021](collab_mtg/2021) (virtual) hosted by JHU (Baltimore, USA)
 
-## Demographic Survey
-- 2014
-- 2015
-- 2016
-- 2018
-- 2021
+## Demographic Surveys
+- [SDSS Demographic Survey (2014)](../documents/md/demographics_survey_2014.md#2014-SDSS-IV-Demographics)
+- [SDSS Demographic Survey (2015)](../documents/md/demographics_survey_2015.md#2015-SDSS-IV-Demographics)
+- [SDSS Demographic Survey (2016)](../documents/md/demographics_survey_2016.md#2016-SDSS-IV-Demographics)
+- [SDSS Demographic Survey (2018)](../documents/md/demographics_survey_2018.md#2018-SDSS-IV-Demographics)
+- [SDSS Demographic Survey (2021)](../documents/md/demographics_survey_2021.md#2021-SDSS-IV-Demographics)
+
