@@ -1,13 +1,5 @@
-This document contains the questions and options from the 2018
-Demographic Survey copied verbatim from the Google Form. A back of of
-the questions is saved in the file menu. Changes can be made to this
-document, but please flag them in **bold**.
-
-Each section is a specific section (a page) in the overall survey as one
-would see while taken the survey. Each section will start on its own
-page for separationg purposes. In each section, the subsection title is
-the question with a lists giving the options. The type of response is
-also indicated.
+This document contains the questions and options from the 2014
+Demographic Survey copied verbatim from Lundgren et al (2015) Fig 1.
 
 # 2014 SDSS-IV Demographics
 
@@ -69,7 +61,7 @@ also indicated.
 
      - Administration
 
-     - Other:
+     - Other
 
 6. My primary home institution is located in:
 
@@ -97,7 +89,7 @@ also indicated.
 
      - No
 
-8. (If “Yes” to the above) I consider(ed) myself to be in a leadership or decision-making role (official or unofficial) within SDSS-III:
+8. If 'Yes' to Question 7: I consider(ed) myself to be in a leadership or decision-making role (official or unofficial) within SDSS-III:
 
    **[Multiple Choice]**
 
@@ -105,7 +97,7 @@ also indicated.
 
      - No
 
-9. I consider myself to be in a leadership or decision-making role (official or unofficial) within SDSS-IV: At any level – overall project, committees, and/or within eBOSS, TDSS, SPIDERS, MaNGA, and/or APOGEE-2
+9. I consider myself to be in a leadership or decision-making role (official or unofficial) within SDSS-IV (at any level – overall project, committees, and/or within eBOSS, TDSS, SPIDERS, MaNGA, and/or APOGEE-2)
 
    **[Multiple Choice]**
 
@@ -113,7 +105,7 @@ also indicated.
 
      - No
 
-10. The primary role in which I lead others is officially recognized within the survey: e.g., a named position on an org chart
+10. If 'Yes' to Question 9: The primary role in which I lead others is officially recognized within the survey (e.g., a named position in an organization chart):
 
     **[Multiple Choice]**
 
@@ -123,7 +115,7 @@ also indicated.
 
       - Unsure
 
-11. Which activity(ies) best describes your leadership role?
+11. If 'Yes' to Question 9: Which activity(ies) best describes your leadership role?
 
     **[Check all that apply.]**
 
@@ -138,7 +130,7 @@ also indicated.
 
       - Other
 
-12. I ended up in this role via:
+12. If 'Yes' to Question 9: I ended up in this role via:
 
     **[Check all that apply.]**
 
@@ -155,7 +147,7 @@ also indicated.
 
       - Other
 
-13. This role is an SDSS-funded position (Full or partial salary):
+13. If 'Yes' to Question 9: This role is an SDSS-funded position (full or partial salary):
 
     **[Multiple Choice]**
 
@@ -163,7 +155,11 @@ also indicated.
 
       - No
 
-14. If ’No’ to Question 9: I have been offered or explicitly encouraged to fill a leadership or decision-making role in SDSS-IV (at any level - overall project, committees, and/or within eBOSS, TDSS, SPIDERS, MaNGA, and/or APOGEE-2):
+14. If 'Yes' to Question 9: If you would be willing to share any of your experiences or impressions about joining SDSS-IV leadership with the CPWS, please include your name and email address below.
+
+   **[Free Response]**
+   
+15. If ’No’ to Question 9: I have been offered or explicitly encouraged to fill a leadership or decision-making role in SDSS-IV (at any level - overall project, committees, and/or within eBOSS, TDSS, SPIDERS, MaNGA, and/or APOGEE-2):
 
     **[Multiple Choice]**
 
@@ -173,6 +169,6 @@ also indicated.
 
       - Unsure
 
-15. If ’No’ to Question 9: If you would be willing to share any of your experiences or impressions about these types of roles in SDSS-IV with the CPWS, please include your name and email address below.
+16. If ’No’ to Question 9: If you would be willing to share any of your experiences or impressions about these types of roles in SDSS-IV with the CPWS, please include your name and email address below.
 
     **[Free Response]**
