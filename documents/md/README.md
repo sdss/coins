@@ -1,6 +1,6 @@
 # Markdown Content
 
-## Policy Documents 
+## Sloan Digital Sky Survey Policy Documents 
 
 ### SDSS-IV Policy Documents
 - [Principles of Operation](https://www.sdss.org/wp-content/uploads/2014/11/principles.sdss4_.v4.pdf) *Note: PDF hosted on [SDSS.org](https://www.sdss.org/)*
