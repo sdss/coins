@@ -4,6 +4,9 @@
 - [SDSS-IV Code of Conduct FAQs](CoC_FAQs.md)
 - Code of Conduct
 
+## Ombuds Office
+- [Introduction to the Ombuds Role](intro_to_ombuds.md) (prepared by Jill Knapp for 2020 Collaboration Meeting)
+
 ## COINS Content
 
 ### Guides for General Collaboration Activities
