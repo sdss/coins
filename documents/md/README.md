@@ -7,7 +7,7 @@
 - [Code of Conduct](https://www.sdss.org/collaboration/the-sloan-digital-sky-survey-code-of-conduct/) *Note: page on [SDSS.org](https://www.sdss.org/)*
   - [SDSS-IV Code of Conduct FAQs](CoC_FAQs.md)
 - [Publications Policy](https://www.sdss.org/collaboration/publication-policy/) *Note: page on [SDSS.org](https://www.sdss.org/)*
-- 
+
 
 ### SDSS-V Policy Documents
 - Principles of Operation
